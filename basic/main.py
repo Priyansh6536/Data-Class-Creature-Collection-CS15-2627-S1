@@ -9,9 +9,9 @@ class Creature:
     health: float
 
 
-creature1 = Creature("Drake", "Dragon", 15, 100.0)
-creature2 = Creature("Shadow", "Wolf", 12, 85.5)
-creature3 = Creature("Aqua", "Mermaid", 20, 120.0)
+creature1 = Creature("James", "Dragon", 15, 100.0)
+creature2 = Creature("Jacob", "Wolf", 12, 85.5)
+creature3 = Creature("John", "Mermaid", 20, 120.0)
 
 
 print("Creature 1:")
